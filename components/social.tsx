@@ -1,7 +1,7 @@
 import { XIcon } from "@/components/icons/x";
 import { GithubIcon } from "@/components/icons/github";
+import { InstagramIcon } from "@/components/icons/instagram";
 import Link from "next/link";
-import { Instagram } from "lucide-react";
 
 export function SocialLinks() {
   return (
@@ -25,7 +25,7 @@ export function SocialLinks() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Instagram size={24} />{" "}
+        <InstagramIcon />
       </Link>
     </div>
   );
