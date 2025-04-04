@@ -10,7 +10,7 @@ export function ProjectList() {
         {projects.map((project: Project) => (
           <li
             key={project.name}
-            className="flex items-center gap-2 transition-transform duration-200 hover:translate-x-1  hover:bg-gray-200/40 rounded-xl p-2 hover:opacity-65"
+            className="flex items-center gap-2 transition-transform duration-200 hover:translate-x-1  hover:bg-gray-200/40 rounded-xl p-2 hover:opacity-65 hover:cursor-pointer"
           >
             <ArrowUpRight className="size-5 text-foreground" />
             <a

@@ -1,5 +1,7 @@
-import { Github, Instagram, Twitter } from "lucide-react";
+import { XIcon } from "@/components/icons/x";
+import { GithubIcon } from "@/components/icons/github";
 import Link from "next/link";
+import { Instagram } from "lucide-react";
 
 export function SocialLinks() {
   return (
@@ -8,28 +10,22 @@ export function SocialLinks() {
         href="https://twitter.com/robinxpfp"
         target="_blank"
         rel="noopener noreferrer"
-        className="text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-colors"
       >
-        <Twitter size={20} />
-        <span className="sr-only">X (Twitter)</span>
+        <XIcon />
       </Link>
       <Link
         href="https://github.com/robinxpfp"
         target="_blank"
         rel="noopener noreferrer"
-        className="text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-colors"
       >
-        <Github size={20} />
-        <span className="sr-only">GitHub</span>
+        <GithubIcon />
       </Link>
       <Link
         href="https://instagram.com/robinxpfp"
         target="_blank"
         rel="noopener noreferrer"
-        className="text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-colors"
       >
-        <Instagram size={20} />
-        <span className="sr-only">Instagram</span>
+        <Instagram size={24} />{" "}
       </Link>
     </div>
   );
