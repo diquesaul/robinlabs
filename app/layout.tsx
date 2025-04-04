@@ -15,7 +15,16 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Robin | Software Developer",
-  description: "Hi, I’m Robin. I’m based on the internet",
+  description:
+    "Hi, I’m Robin (@robinxpfp), a software developer specializing in Next.js, React, and open-source projects.",
+  keywords: [
+    "robinxpfp",
+    "Robin software developer",
+    "software developer portfolio",
+    "open source projects",
+    "Next.js developer",
+    "React developer",
+  ],
 };
 
 export default function RootLayout({
