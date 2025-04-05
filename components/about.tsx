@@ -1,30 +1,26 @@
-import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { SocialLinks } from "@/components/social";
 
 export function About() {
   return (
     <>
       <div className="flex gap-2 items-center mb-8">
-        <Avatar className="h-12 w-12">
-          <AvatarImage src="" alt="@shadcn" />
-          <AvatarFallback>RX</AvatarFallback>
-        </Avatar>
-        <div className="flex flex-col font-medium">
-          <span>Robin</span>
-          <span className="text-sm opacity-75">Software Developer</span>
-        </div>
+        <h1 className="text-xl font-medium">
+          Hi, I&apos;m Robin - Software Developer
+        </h1>
       </div>
-      <div className="space-y-4 sm:text-base text-sm">
+      <div className="space-y-4 sm:text-base text-sm mb-6">
         <p>
-          A minimalist passionate about the digital realm, diving into coding
-          with endless curiosity.
+          I&apos;m a software developer who loves bringing ideas to life through
+          code, always exploring new ways to solve problems.
         </p>
         <p>
-          A street photographer in real life, also known as a skilled baker.
+          When I&apos;m not coding, you&apos;ll likely find me exploring my love
+          for photography and art, capturing moments and drawing inspiration
+          from the world around me.
         </p>
         <p>
-          I care about seamless user experiences and aim to streamline efforts
-          for innovation and creativity.
+          I focus on crafting seamless and intuitive user experiences that make
+          technology a joy to use.
         </p>
         <p>
           <span className="font-bold">@robinxpfp</span> is my alias on the

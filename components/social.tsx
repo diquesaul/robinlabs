@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export function SocialLinks() {
   return (
-    <div className="flex gap-4 mt-6">
+    <div className="flex gap-4">
       <Link
         href="https://twitter.com/robinxpfp"
         target="_blank"

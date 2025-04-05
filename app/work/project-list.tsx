@@ -4,9 +4,9 @@ import { ArrowUpRight } from "lucide-react";
 export function ProjectList() {
   return (
     <div>
-      <h2 className="font-bold text-foreground mb-4">Projects</h2>
+      <h2 className="font-bold text-foreground mb-8">Projects</h2>
 
-      <ul className="mt-4 space-y-1">
+      <ul className="space-y-1">
         {projects.map((project: Project) => (
           <li
             key={project.name}
