@@ -21,9 +21,9 @@ export const projects: Project[] = [
     url: "https://weatherglto.vercel.app/",
   },
   {
-    name: "robinlearns",
+    name: "docs",
     description: "A platform for learning and sharing knowledge",
-    url: "https://learnglto.vercel.app/",
+    url: "https://docs.robinlabs.xyz/docs",
   },
   {
     name: "portfolio",
