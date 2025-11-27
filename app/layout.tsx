@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Robin | Software Developer",
+  title: "Saul | Software Developer",
   description:
-    "Hi, I’m Robin (@robinxpfp), a software developer specializing in Next.js, React, and open-source projects.",
+    "Hi, I’m Saul (@robinxpfp), a software developer specializing in Next.js, React, and open-source projects.",
   keywords: [
     "robinxpfp",
-    "Robin software developer",
+    "Saul software developer",
     "software developer portfolio",
     "open source projects",
     "Next.js developer",

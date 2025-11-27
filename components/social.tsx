@@ -14,14 +14,14 @@ export function SocialLinks() {
         <XIcon />
       </Link>
       <Link
-        href="https://github.com/robinxpfp"
+        href="https://github.com/devdotsaul"
         target="_blank"
         rel="noopener noreferrer"
       >
         <GithubIcon />
       </Link>
       <Link
-        href="https://instagram.com/robinxpfp"
+        href="https://instagram.com/devdotsaul"
         target="_blank"
         rel="noopener noreferrer"
       >
