@@ -12,7 +12,7 @@ export function NavBar() {
         "flex justify-between items-center font-semibold mb-20 sm:text-base text-sm"
       )}
     >
-      <div>RX</div>
+      <div>SP</div>
       <div className={cn("flex gap-4")}>
         <Link
           href="/"
