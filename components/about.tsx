@@ -5,7 +5,7 @@ export function About() {
     <>
       <div className="flex gap-2 items-center mb-8">
         <h1 className="text-xl font-medium">
-          Hi, I&apos;m Robin - Software Developer
+          Hi, I&apos;m Saul Perez - Software Developer
         </h1>
       </div>
       <div className="space-y-4 sm:text-base text-sm mb-6">
