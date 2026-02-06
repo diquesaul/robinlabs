@@ -7,21 +7,21 @@ export function SocialLinks() {
   return (
     <div className="flex gap-4">
       <Link
-        href="https://twitter.com/robinxpfp"
+        href="https://twitter.com/fokrobin"
         target="_blank"
         rel="noopener noreferrer"
       >
         <XIcon />
       </Link>
       <Link
-        href="https://github.com/devdotsaul"
+        href="https://github.com/diquesaul"
         target="_blank"
         rel="noopener noreferrer"
       >
         <GithubIcon />
       </Link>
       <Link
-        href="https://instagram.com/devdotsaul"
+        href="https://instagram.com/diquesaul"
         target="_blank"
         rel="noopener noreferrer"
       >

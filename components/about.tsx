@@ -23,7 +23,7 @@ export function About() {
           technology a joy to use.
         </p>
         <p>
-          <span className="font-bold">@robinxpfp</span> is my alias on the
+          <span className="font-bold">@fokrobin</span> is my alias on the
           internet.
         </p>
       </div>

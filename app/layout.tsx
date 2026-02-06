@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Saul | Software Developer",
   description:
-    "Hi, I’m Saul (@robinxpfp), a software developer specializing in Next.js, React, and open-source projects.",
+    "Hi, I’m Saul (@fokrobin), a software developer specializing in Next.js, React, and open-source projects.",
   keywords: [
-    "robinxpfp",
+    "fokrobin",
     "Saul software developer",
     "software developer portfolio",
     "open source projects",
